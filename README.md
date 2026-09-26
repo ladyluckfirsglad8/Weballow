@@ -220,4 +220,4 @@ WebAllow is offered as a full free version, providing all features and updates w
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-26 14:02:39 UTC
+**Last updated:** 2026-09-26 18:16:11 UTC
